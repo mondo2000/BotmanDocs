@@ -1,6 +1,6 @@
 .. _introduction:
 
-Botman: A 7 Days to die bot
+Botman: A 7 Days to Die Bot
 =============================
 
 Introduction
