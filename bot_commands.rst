@@ -1,11 +1,7 @@
 .. _bot_commands:
 
-Botman: a 7 Days to die bot
-=============================
-
-
-Botman commands
--------------------
+Botman: commands
+================
 
 .. toctree::
    :maxdepth: 1
