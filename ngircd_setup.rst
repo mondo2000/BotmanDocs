@@ -1,6 +1,6 @@
 .. _ngircd_setup:
 
-Section 4. Setting up ngIRCd
+Section 5. Setting up ngIRCd
 ============================
 
 Step 1. Editing ngIRCd.conf

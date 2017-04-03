@@ -1,6 +1,6 @@
 .. _setup_testing:
 
-Section 5. Setup and Testing
+Section 6. Setup and Testing
 ============================
 
 Step 1. Setting up ngircd, bot channels

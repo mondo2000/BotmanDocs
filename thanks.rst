@@ -1,6 +1,6 @@
 .. _thanks:
 
-Section 6. Thanks
+Section 7. Thanks
 =================
 
 Thanks to everyone especially:
