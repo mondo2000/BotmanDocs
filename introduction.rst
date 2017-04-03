@@ -1,7 +1,10 @@
 .. _introduction:
 
+Botman: a 7 Days to die bot
+=============================
+
 Introduction
-============
+------------
 
 Botman, a server manager for managing a 7 Days to Die server
 ------------------------------------------------------------
