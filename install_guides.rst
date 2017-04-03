@@ -10,6 +10,7 @@ Install Guides
     software_dependencies_install
     database_setup
     mudlet_install
+    ngircd_setup
     setup_testing
     thanks
 

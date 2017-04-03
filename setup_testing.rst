@@ -112,9 +112,11 @@ Step 5. Run a Test
 -------------------
   1. Making sure to have your edited mudlet profile files in  the mudlet-data profile directory ``USERNAME/mudlet-data/profiles/newbot/current/bot_profile.xml``, start mudlet and select the "newbot" (as named in the repo, otherwise named as the folder name.)
 
+
   2. Set your telnet connection address and port and start the bot.
 
    a. You should see the bot login, or attempt to.
+
   
    b. You can verify the bot has logged in using the IRC, it will tell you. If the bot login works you'll see it run off some initial commands to gather data about the server and any players.
 
@@ -123,11 +125,14 @@ Step 5. Run a Test
 
    a. In mudlet, click on the scripts icon and then click the "errors" icon to the left at the bottom of the list.
 
+
    b. Join your 7dtd server and type `/gimme admin` (you should have already been configured as an admin in the server's config files.)
 
    c. The bot will recognize you as an admin and allow you to use all the commands it has if it is working.
+
   
    d. If anything is wrong you will see the errors in the error pane of the scripts window.
+
 
 Step 6. Enjoy having a cool Bot!
 ---------------------------------
