@@ -1,4 +1,4 @@
-.. _general_guides:
+.. _install_guides:
 
 General Guides
 ==============
