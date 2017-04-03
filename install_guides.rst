@@ -12,12 +12,5 @@ Install Guides
     mudlet_install
     ngircd_setup
     setup_testing
-    thanks
+    thanks  
 
-    
-
-..
-
-the above list is the order
-
-..
