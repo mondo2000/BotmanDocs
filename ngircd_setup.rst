@@ -148,26 +148,24 @@ New change to botman:
 
   4. crtl + X
 
-  |
-
+  
   5. Y
 
-  |
+  
 
   6. enter 
 
-  |
+ 
 
   7. sudo service ngircd stop
 
-  |
 
   8. sudo service ngircd start
 
-  |
+
 
   9. sudo service ngircd status
 
-  |
+
 
   10. done!
