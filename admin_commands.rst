@@ -1,3 +1,5 @@
+.. _admin_commands:
+
  /activatetp <teleport>
 Change a teleport to active.  It will now be able to teleport some or all players depending on...
 

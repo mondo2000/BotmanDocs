@@ -12,6 +12,6 @@ Botman Documentation
 
    introduction
    install_guides
-   general_guides
+   bot_commands
    license   
    help
