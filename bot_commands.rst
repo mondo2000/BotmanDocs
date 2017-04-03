@@ -8,6 +8,7 @@ Botman: Commands
 
    admin_commands
    base_commands
+   coppi_commands
    donor_commands
    general_commands
    irc_commands
