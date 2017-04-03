@@ -1,5 +1,8 @@
+.. _mudlet_install:
+
 Section 4. Installing Mudlet
 =======================================
+
 Step 1. Installing Mudlet
 -------------------------
   Notes:
