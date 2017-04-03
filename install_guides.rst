@@ -1,6 +1,6 @@
 .. _install_guides:
 
-General Guides
+Install Guides
 ==============
 
 .. toctree::
