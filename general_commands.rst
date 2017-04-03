@@ -1,7 +1,7 @@
 .. _general_commands:
 
 
-In game general commands
+In-game General commands
 ========================
 
 /alert <your message here>

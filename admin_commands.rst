@@ -2,7 +2,7 @@
 
 
 
-In game Admin commands
+In-game Admin commands
 ======================
 
 

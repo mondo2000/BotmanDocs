@@ -1,6 +1,6 @@
 .. _remote_commands:
 
-IRC commands for in game
+IRC commands for in-game
 ========================
 
 These commands must begin with cmd and must include the /.

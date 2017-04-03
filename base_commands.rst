@@ -1,7 +1,7 @@
 .. _base_commands:
 
 
-In game base (home) commands
+In-game Base (home) commands
 ============================
 
 /base

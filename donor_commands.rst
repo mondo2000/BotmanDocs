@@ -3,7 +3,7 @@
 
 
 
-In game Donor commands
+In-game Donor commands
 ======================
 
   /clear waypoint
