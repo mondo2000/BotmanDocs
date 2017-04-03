@@ -1,6 +1,6 @@
 .. _bot_commands:
 
-Botman: commands
+Botman: Commands
 ================
 
 .. toctree::
