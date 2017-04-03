@@ -13,7 +13,9 @@ Step 1. Setting up ngircd, bot channels
  ToDo: detailed steps need to clarify with Smegz0r about static channels
 ..
 
- **Step 2. Testing Mudlet's Connections**
+
+Step 2. Testing Mudlet's Connections
+------------------------------------
  
   Before you load the bot and make any configuration changes, make a quick test of the mudlet environment.
  - Start Mudlet.
@@ -28,7 +30,7 @@ Step 1. Setting up ngircd, bot channels
  - Click the Connect icon and create a new profile to test the connection from Mudlet to your 7 days server telnet port.
 
    | In the Server address block put: 0.0.0.0
-   | In the Port blockput: 8081
+   | In the Port block put: 8081
    | or your own IP:Port numbers if you have different ports
 
   **If** everything connected correctly you should see:
@@ -61,7 +63,8 @@ Step 1. Setting up ngircd, bot channels
 
   You can verify the IRC client in mudlet is working by using xchat or another IRC client to watch the IRC channel (#mudlet or whichever you chose) for connection and quit lines.
 
- **Step 3. Setting up the Bot Database**
+Step 3. Setting up the Bot Database
+------------------------------------
 
   The bot uses two databases which you can find in ``USERNAME/mudlet-data/profiles/newbot/sql``: `bots.sql` and `testbot(structure only).sql`
 
@@ -90,7 +93,8 @@ Step 1. Setting up ngircd, bot channels
 
   ``nano USERNAME/mudlet-data/profiles/newbot/scripts/editme.lua``
 
- **Step 4. Configuring the Bot**
+Step 4. Configuring the Bot
+----------------------------
 
    The one configuration required, aside from database settings in step 6, is the telnet password in the login trigger script.  Be sure to change the text sent to your server's password as set in its telnet configurations section.  This can be done while the bot is running, through mudlet, but may also save you time to do it in the `scripts/editme.lua` file beforehand.
 
@@ -98,16 +102,27 @@ Step 1. Setting up ngircd, bot channels
 
   ``nano USERNAME/mudlet-data/profiles/newbot/scripts/editme.lua``
 
- **Step 5. Run a Test**
+Step 5. Run a Test
+-------------------
+  1. Making sure to have your edited mudlet profile files in  the mudlet-data profile directory ``USERNAME/mudlet-data/profiles/newbot/current/bot_profile.xml``, start mudlet and select the "newbot" (as named in the repo, otherwise named as the folder name.)
 
-  Making sure to have your edited mudlet profile files in ``USERNAME/mudlet-data/profiles/newbot/current/bot_profile.xml`` the mudlet-data profile directory, start mudlet and select the "newbot" (as named in the repo, otherwise named as the folder name.)  Set your telnet connection address and port and start the bot.
+  2. Set your telnet connection address and port and start the bot.
 
-  You should see the bot login, or attempt to.
-  You can verify the bot has logged in using the IRC, it will tell you. If the bot login works you'll see it run off some initial commands to gather data about the server and any players.
-  From here out your bot is working.  It always needs testing, just to be sure.
-  In mudlet, click on the scripts icon and then click the "errors" icon to the left at the bottom of the list.
-  Join your 7dtd server and type `/gimme admin` (you should have already been configured as an admin in the servers config files.)
-  The bot will recognize you as an admin and allow you to use all the commands it has if it is working.
-  If anything is wrong you will see the errors in the error pane of the scripts window.
+   a. You should see the bot login, or attempt to.
+  
+   b. You can verify the bot has logged in using the IRC, it will tell you. If the bot login works you'll see it run off some initial commands to gather data about the server and any players.
 
- **Step 6. Enjoy having a cool Bot!**
+  3. From here out your bot is working.
+     It always needs testing/error checking, just to be sure.
+
+   a. In mudlet, click on the scripts icon and then click the "errors" icon to the left at the bottom of the list.
+
+   b. Join your 7dtd server and type `/gimme admin` (you should have already been configured as an admin in the server's config files.)
+
+   c. The bot will recognize you as an admin and allow you to use all the commands it has if it is working.
+  
+  d. If anything is wrong you will see the errors in the error pane of the scripts window.
+
+
+Step 6. Enjoy having a cool Bot!
+---------------------------------
