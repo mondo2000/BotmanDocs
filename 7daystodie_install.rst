@@ -29,9 +29,7 @@ Step 1. Install 7 Days to Die Server and Mods
 
    a. To find out what xx-bit you are running
     ``cat /proc/version``
-
       i.e.
-
     ``Linux version 3.16.0-4-amd64 (debian-kernel@lists.debian.org) (gcc version 4.8.4 (Debian 4.8.4-1) ) #1 SMP Debian  3.16.39-1+deb8u2 (2017-03-07)``
 
     I would install the 64-bit
@@ -42,6 +40,7 @@ Step 1. Install 7 Days to Die Server and Mods
 
      | For Debian 32-bit
      ``sudo apt-get install mailutils postfix curl git wget file bzip2 gzip unzip bsdmainutils python util-linux tmux libstdc++6 telnet expect``
+
    c. Create a user and login.
 
     ``sudo adduser sdtdserver``
