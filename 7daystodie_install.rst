@@ -1,12 +1,21 @@
 .. _7daystodie_install:
 
-***************************************
-**Section 1. 7 Days to Die Server Installation**
-***************************************
 
- **Step 1. Install 7 Days to Die Server and Mods**
+
+
+Section 1. 7 Days to Die Server Installation
+============================================
+
+
+
+
+Step 1. Install 7 Days to Die Server and Mods
+--------------------------------------------
+
+
 
   1. Ensure you're using the most up to date packages:
+
     
      ``sudo apt-get update``
     

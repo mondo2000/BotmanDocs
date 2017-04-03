@@ -1,5 +1,7 @@
-**Step 1. Installing Mudlet**
-
+Section 4. Installing Mudlet
+=======================================
+Step 1. Installing Mudlet
+-------------------------
   Notes:
 
   Here is an official help thread for Botman: `https://7daystodie.com/forums <https://7daystodie.com/forums/showthread.php?52933-Botman-server-manager-official-support-thread>`_

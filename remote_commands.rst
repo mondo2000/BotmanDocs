@@ -1,4 +1,12 @@
-These commands must begin with cmd and must include the /.  They will cause the command to be sent as if you were present in-game.  Only commands that do not require you to be playing are listed.  See the section on in-game commands for admin commands you can do whilst playing.  All of the commands listed here are identical to ingame commands so for their descriptions, please read that section. The only difference is that these commands will show in-game as coming from Server, not from you.
+.. _remote_commands:
+
+IRC commands for in game
+========================
+
+These commands must begin with cmd and must include the /.
+----------------------------------------------------------
+
+They will cause the command to be sent as if you were present in-game.  Only commands that do not require you to be playing are listed.  See the section on in-game commands for admin commands you can do whilst playing.  All of the commands listed here are identical to ingame commands so for their descriptions, please read that section. The only difference is that these commands will show in-game as coming from Server, not from you.
 
 
 cmd /arrest <playername>

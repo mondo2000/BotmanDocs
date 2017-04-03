@@ -1,5 +1,10 @@
-**Step 1. Setting up ngircd, bot channels**
+.. _setup_testing:
 
+Section 5. Setup and Testing
+============================
+
+Step 1. Setting up ngircd, bot channels
+---------------------------------------
   The default install should work. Bot may say no such user or channel.
   
   More to come on this.

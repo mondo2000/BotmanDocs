@@ -1,4 +1,11 @@
-**Step 1. MySQL database/user ceation**
+.. _database_setup:
+
+
+Section 3. Setting up the bot database(s)
+=========================================
+
+Step 1. MySQL database/user creation
+------------------------------------
 
   1. Create MySQL database(s)/user(s) for the bot
      

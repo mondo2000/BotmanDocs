@@ -1,3 +1,8 @@
+.. _irc_commands:
+
+IRC commands
+============
+
  add admin <playername> *
 A server owner can add a player to the list of admins.
 

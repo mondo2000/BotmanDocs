@@ -4,7 +4,7 @@ Introduction
 ============
 
 Botman, a server manager for managing a 7 Days to Die server
-
+------------------------------------------------------------
 botman3
 Bot source updated 27 March 2017. Works with A15.2 (b8)
 

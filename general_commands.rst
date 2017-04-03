@@ -1,4 +1,10 @@
- /alert <your message here>
+.. _general_commands:
+
+
+In game general commands
+========================
+
+/alert <your message here>
 The bot can record a message for you which will be read later by an admin. Your message includes...
 
  /disabletp

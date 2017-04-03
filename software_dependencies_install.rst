@@ -1,4 +1,10 @@
-**Step 1. Installing Software Dependencies**
+.. _software_dependencies_install:
+
+Section 2. Software Installation
+================================
+
+Step 1. Installing Software Dependencies
+----------------------------------------
 
   1. Ensure some essential system utilities are installed
 

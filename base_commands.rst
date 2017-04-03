@@ -1,4 +1,10 @@
- /base
+.. _base_commands:
+
+
+In game base (home) commands
+============================
+
+/base
 Teleports you back to wherever /setbase was done. This command has a 30 minute delay between uses...
 
  /delbase
