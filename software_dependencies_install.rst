@@ -12,7 +12,7 @@ Step 1. Installing Software Dependencies
 
   2. Bot main software dependencies:
 
-   ``sudo apt-get install bless geany geany-plugin-lua mudlet ngircd xchat phpmyadmin lua-filesystem lua-sql-mysql lua-zip lua5.1 luajit gnome-nettool openssh-server``
+   ``sudo apt-get install bless geany geany-plugin-lua mudlet ngircd xchat phpmyadmin lua-filesystem lua-sql-mysql lua-zip lua5.1 luajit gnome-nettool openssh-server lua-sql-mysql``
 
   4. There are a few flavors of MySQL you can install. I recommend MariaDB. Remember this password you will need it.  
     
